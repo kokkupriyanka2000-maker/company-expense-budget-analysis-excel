@@ -49,7 +49,7 @@ Includes:
 - Monthly Expense Trend
 - Category Slicer
 
-![KPIs and Budget Analysis](Dashboard_Screenshot 1.png)
+![KPIs and Budget Analysis](![Dashboard screenshot](Screenshot 1.png))
 
 ---
 
