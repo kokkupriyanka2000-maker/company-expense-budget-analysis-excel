@@ -38,7 +38,7 @@ It helps stakeholders quickly identify **overspending, department-wise variance,
 ### 🔹 Complete Dashboard View
 > Full interactive dashboard with KPIs, charts, slicers, and summary table.
 
-![Complete Dashboard](![Dashboard screenshot](Complete_Dashboard%20.png)
+![Complete Dashboard](![Complet Dashboard](Complete_Dashboard.png)
 
 ---
 
@@ -95,8 +95,3 @@ All calculations and visuals are dynamically linked using pivot tables and slice
 
 ## 👩‍💻 Author
 **Kokku Priyanka**  
-Aspiring Data Analyst | Excel | SQL | Power BI  
-
-
-Give it a ⭐ on GitHub and feel free to fork or use it for learning purposes.
-
