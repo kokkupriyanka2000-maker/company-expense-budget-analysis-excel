@@ -38,7 +38,7 @@ It helps stakeholders quickly identify **overspending, department-wise variance,
 ### 🔹 Complete Dashboard View
 > Full interactive dashboard with KPIs, charts, slicers, and summary table.
 
-![Complete Dashboard](![Complet Dashboard](CompleteDashboard.png)
+![Complete Dashboard](![Complet Dashboard](complete_dashboard.png)
 
 ---
 
