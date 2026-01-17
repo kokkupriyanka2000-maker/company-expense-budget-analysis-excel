@@ -38,7 +38,7 @@ It helps stakeholders quickly identify **overspending, department-wise variance,
 ### 🔹 Complete Dashboard View
 > Full interactive dashboard with KPIs, charts, slicers, and summary table.
 
-![Complete Dashboard](Complete_Dashboard.png)
+![Complete Dashboard](![Dashboard screenshot](Complete_Dashboard%20.png)
 
 ---
 
@@ -59,7 +59,7 @@ Includes:
 - Expense Distribution (Pie Chart)
 - Month Slicer
 
-![Department Variance and Pie Chart](Screenshot 2.png)
+![Department Variance and Pie Chart](![Dashboard screenshot](Screenshot%202.png)
 
 ---
 
@@ -70,7 +70,7 @@ Includes:
 - Variance
 - Variance Percentage
 
-![Department Summary Table](Screenshot 3.png)
+![Department Summary Table](![Dashboard screenshot](Screenshot%203.png)
 
 ---
 
